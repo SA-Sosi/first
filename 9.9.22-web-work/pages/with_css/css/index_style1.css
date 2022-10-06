@@ -1,0 +1,55 @@
+h1{
+	color: green;
+}
+.head1{
+background-color: orange ;
+}
+.border_black{
+	border: 5px black solid;
+}
+#head1{
+	font-size: 50px;
+	color: red;
+}
+
+
+.head3{
+	width: 40%;
+	height: 100px;
+	background-color: deepskyblue;
+}
+
+.box{
+	width: 100px;
+	height: 100px;
+}
+.red{
+	background-color: red;
+}
+.orange{
+	background-color: orange;
+	margin: 20px 30px 40px 00px;
+}
+
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+	margin: 5px 00px;
+}
+
+
+.black{
+	background-color: black;
+	margin: 10px;
+	border: 10px dotted red;
+	padding: 50px;
+}
+h5{
+	color: green;
+
+}
+.red{
+	color: red;
+}
